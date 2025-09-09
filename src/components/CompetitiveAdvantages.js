@@ -24,12 +24,12 @@ const CompetitiveAdvantages = () => {
   const advantages = [
     {
       icon: Shield,
-      title: 'Patent-Pending IP',
-      description: 'Unique synthesis optimization approach provides sustainable competitive moat',
+      title: 'Proprietary Technology',
+      description: 'Unique synthesis optimization approach provides sustainable competitive advantage',
       details: [
         'Novel AI-driven synthesis planning',
         'Proprietary retrosynthetic algorithms', 
-        'Patent protection filed',
+        'Advanced algorithmic framework',
         'Trade secret methodologies'
       ],
       color: 'blue'

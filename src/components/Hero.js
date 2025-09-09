@@ -56,7 +56,7 @@ const Hero = () => {
               className="text-xl text-gray-600 leading-relaxed"
             >
               Revolutionary AI platform targeting the $8.2B drug discovery market growing at 18.2% CAGR. 
-              Validated technology with 90.8% AUC accuracy and patent-pending synthesis 
+              Validated technology with 90.8% AUC accuracy and optimized synthesis 
               optimization provides first-mover advantage in rapidly expanding market.
             </motion.p>
 

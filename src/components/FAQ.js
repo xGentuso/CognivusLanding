@@ -9,11 +9,11 @@ const FAQ = () => {
   const faqs = [
     {
       question: "What is Cognivus's competitive advantage in the AI drug discovery market?",
-      answer: "Cognivus is the only AI platform focused on synthesis optimization, addressing the critical bottleneck in drug development. Our 90.8% AUC model performance with 5 validated BACE1 leads demonstrates proven technology in a $8.2B market growing at 18.2% CAGR, with patent-pending IP providing sustainable competitive moats."
+      answer: "Cognivus is the only AI platform focused on synthesis optimization, addressing the critical bottleneck in drug development. Our 90.8% AUC model performance with 5 validated BACE1 leads demonstrates proven technology in a $8.2B market growing at 18.2% CAGR, with proprietary algorithms providing sustainable competitive advantages."
     },
     {
       question: "What is the current funding status and use of capital?",
-      answer: "We are raising $4.25M in seed funding to validate our AI predictions through wet lab testing and scale operations. Funds will be allocated to: 40% wet lab validation, 30% team expansion, 20% platform development, and 10% IP protection. This positions us for a $10.6M Series A within 12-18 months."
+      answer: "We are raising $4.25M in seed funding to validate our AI predictions through wet lab testing and scale operations. Funds will be allocated to: 40% wet lab validation, 30% team expansion, 25% platform development, and 5% legal and regulatory. This positions us for a $10.6M Series A within 12-18 months."
     },
     {
       question: "What partnerships are you seeking and what value do you provide?",
@@ -29,11 +29,11 @@ const FAQ = () => {
     },
     {
       question: "How strong is your intellectual property position?",
-      answer: "We have patent-pending technology for AI-driven synthesis optimization, a unique approach in the market. Our proprietary algorithms, retrosynthetic planning methods, and compound scoring systems provide strong IP protection. We're building a comprehensive patent portfolio to defend our market position."
+      answer: "We have developed proprietary technology for AI-driven synthesis optimization, a unique approach in the market. Our advanced algorithms, retrosynthetic planning methods, and compound scoring systems provide competitive differentiation. We're continuously innovating to maintain our technological leadership."
     },
     {
       question: "What are the key risks and how are you mitigating them?",
-      answer: "Primary risks include regulatory approval uncertainty, competition from pharma giants, and technology validation. We mitigate through: proven BACE1 results, patent protection, experienced team, diversified target approach, and strategic partnerships. Our synthesis focus differentiates us from binding-prediction competitors."
+      answer: "Primary risks include regulatory approval uncertainty, competition from pharma giants, and technology validation. We mitigate through: proven BACE1 results, proprietary technology, experienced team, diversified target approach, and strategic partnerships. Our synthesis focus differentiates us from binding-prediction competitors."
     },
     {
       question: "What type of returns can investors expect and what are comparable exits?",

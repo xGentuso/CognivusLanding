@@ -12,7 +12,7 @@ const SocialProof = () => {
       color: "green"
     },
     {
-      title: "Patent-Pending IP",
+      title: "Proprietary Technology",
       description: "Unique synthesis optimization approach provides sustainable competitive advantage",
       icon: "🛡️",
       color: "blue"
@@ -142,7 +142,7 @@ const SocialProof = () => {
           </h3>
           <p className="text-gray-600 mb-8 max-w-2xl mx-auto">
             Cognivus is positioned to capture significant market share in the rapidly growing 
-            $8.2B AI drug discovery market. Our AI technology and patent-pending approach 
+            $8.2B AI drug discovery market. Our proprietary AI technology 
             provide sustainable competitive advantages.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">

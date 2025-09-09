@@ -274,7 +274,7 @@ const MarketOpportunity = () => {
               {
                 title: 'First Mover Advantage',
                 description: 'First AI platform with proven synthesis focus',
-                metric: 'Patent-Pending'
+                metric: 'Proprietary Tech'
               },
               {
                 title: 'Proven Technology',

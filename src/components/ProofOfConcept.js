@@ -167,7 +167,7 @@ const ProofOfConcept = () => {
               {[
                 { property: 'Molecular Weight', range: '150-490 Da', status: 'Optimal' },
                 { property: 'LogP', range: '1.8-3.9', status: 'Drug-like' },
-                { property: 'Patent Risk', range: '98.9% Low Risk', status: 'Excellent' },
+                { property: 'Regulatory Risk', range: '98.9% Low Risk', status: 'Excellent' },
                 { property: 'Binding Affinity', range: 'Ki < 100 nM', status: 'Strong' }
               ].map((prop, index) => (
                 <div key={index} className="flex items-center justify-between p-4 bg-gray-50 rounded-xl">

@@ -131,7 +131,7 @@ const TeamVision = () => {
               {[
                 'Software Engineering, triOS College Business Technology Healthcare',
                 'Self-Taught AI/ML Specialist with High Interest in Drug Discovery', 
-                'Patent-Pending AI Technology for Synthesis Optimization',
+                'Proprietary AI Technology for Synthesis Optimization',
                 '90.8% AUC Performance with BACE1 Leads'
               ].map((expertise, index) => (
                 <div key={index} className="flex items-center gap-3">
@@ -227,7 +227,7 @@ const TeamVision = () => {
                   '5 BACE1 lead compounds (Alzheimer\'s)',
                   '90.8% AUC model performance',
                   '0.630 R² correlation score',
-                  'Patent-pending technology'
+                  'Proprietary technology'
                 ].map((capability, index) => (
                   <div key={index} className="flex items-center gap-3 p-3 bg-green-50 rounded-lg">
                     <CheckCircle className="w-5 h-5 text-green-600 flex-shrink-0" />

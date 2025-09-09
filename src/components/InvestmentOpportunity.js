@@ -89,9 +89,9 @@ const InvestmentOpportunity = () => {
     },
     {
       icon: Brain,
-      title: 'Patent-Pending',
+      title: 'Proprietary Tech',
       description: 'Unique synthesis optimization approach',
-      value: 'Protected'
+      value: 'Advanced'
     }
   ];
 
