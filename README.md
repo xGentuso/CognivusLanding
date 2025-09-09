@@ -1,6 +1,6 @@
-# BioLogic AI Landing Page
+# Cognivus Landing Page
 
-A professional, conversion-optimized landing page for BioLogic AI, an AI-first drug discovery platform. This React-based landing page showcases the company's breakthrough technology, validated results, and investment opportunity.
+A professional, conversion-optimized landing page for Cognivus, an AI-first drug discovery platform. This React-based landing page showcases the company's breakthrough technology, validated results, and investment opportunity.
 
 ## 🚀 Features
 
@@ -224,5 +224,4 @@ Track these key performance indicators:
 
 ---
 
-**BioLogic AI** - Revolutionizing drug discovery with AI
-
+**Cognivus** - Revolutionizing drug discovery with AI
