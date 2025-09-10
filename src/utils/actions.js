@@ -9,7 +9,7 @@ export const CONTACT_INFO = {
 
 // Social media links (placeholder - replace with actual links)
 export const SOCIAL_LINKS = {
-  linkedin: 'https://linkedin.com/company/biologic-ai',
+  linkedin: 'http://linkedin.com/in/ryancodes',
   twitter: 'https://twitter.com/biologic_ai', 
   github: 'https://github.com/biologic-ai'
 };
