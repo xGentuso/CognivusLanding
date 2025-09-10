@@ -83,8 +83,8 @@ const InvestmentOpportunity = () => {
     },
     {
       icon: DollarSign,
-      title: '$15B+ Market',
-      description: 'Addressable AI drug discovery market',
+      title: '$8.2B Market',
+      description: 'AI drug discovery market by 2030',
       value: 'Massive'
     },
     {

@@ -66,7 +66,7 @@ const ProblemSolution = () => {
             Market Opportunity & Solution
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            The $15B+ AI drug discovery market is driven by critical inefficiencies in traditional 
+            The $8.2B AI drug discovery market is driven by critical inefficiencies in traditional 
             pharmaceutical R&D. Our platform directly addresses these multi-billion dollar pain points.
           </p>
         </motion.div>

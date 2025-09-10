@@ -13,7 +13,7 @@ const FAQ = () => {
     },
     {
       question: "What is the current funding status and use of capital?",
-      answer: "We are raising $4.25M in seed funding to validate our AI predictions through wet lab testing and scale operations. Funds will be allocated to: 40% wet lab validation, 30% team expansion, 25% platform development, and 5% legal and regulatory. This positions us for a $10.6M Series A within 12-18 months."
+      answer: "We are raising $4.25M in seed funding to validate our AI predictions through wet lab testing and scale operations. Funds will be allocated to: 40% wet lab validation, 30% team expansion, 20% platform development, and 10% legal & compliance. This positions us for a $10.6M Series A within 12-18 months."
     },
     {
       question: "What partnerships are you seeking and what value do you provide?",

@@ -55,7 +55,7 @@ const SocialProof = () => {
             Investment Opportunity Overview
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Revolutionary AI platform positioned to capture significant share of the $15B+ drug discovery market
+            Revolutionary AI platform positioned to capture significant share of the $8.2B AI drug discovery market
           </p>
         </motion.div>
 
