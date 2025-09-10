@@ -2,8 +2,8 @@
 
 // Contact information
 export const CONTACT_INFO = {
-  email: 'BioLogicAI@ryanmota.dev',
-  company: 'BioLogic AI',
+  email: 'ryanmota@cognivus.ca',
+  company: 'Cognivus',
   location: 'Niagara Falls, ON'
 };
 
@@ -17,10 +17,10 @@ export const SOCIAL_LINKS = {
 // Action functions
 export const scheduleDemo = () => {
   // Create a mailto link with pre-filled content
-  const subject = 'Investor Demo Request - BioLogic AI';
+  const subject = 'Investor Demo Request - Cognivus';
   const body = `Hello,
 
-I would like to schedule a demo of the BioLogic AI platform to discuss investment opportunities.
+I would like to schedule a demo of the Cognivus AI platform to discuss investment opportunities.
 
 Please let me know your availability for a 30-minute demonstration.
 
@@ -32,10 +32,10 @@ Best regards,`;
 
 export const downloadPitchDeck = () => {
   // For now, this will trigger an email request since we don't have the actual file
-  const subject = 'Pitch Deck Request - BioLogic AI';
+  const subject = 'Pitch Deck Request - Cognivus';
   const body = `Hello,
 
-I would like to request a copy of the BioLogic AI pitch deck for investment review.
+I would like to request a copy of the Cognivus pitch deck for investment review.
 
 Please send the latest version at your earliest convenience.
 
@@ -47,10 +47,10 @@ Best regards,`;
 
 export const downloadTechnicalOverview = () => {
   // For now, this will trigger an email request
-  const subject = 'Technical Overview Request - BioLogic AI';
+  const subject = 'Technical Overview Request - Cognivus';
   const body = `Hello,
 
-I would like to request the technical overview document for the BioLogic AI platform.
+I would like to request the technical overview document for the Cognivus platform.
 
 Please send the latest technical documentation.
 
@@ -61,10 +61,10 @@ Best regards,`;
 };
 
 export const scheduleConsultation = () => {
-  const subject = 'Consultation Request - BioLogic AI';
+  const subject = 'Consultation Request - Cognivus';
   const body = `Hello,
 
-I would like to schedule a consultation to discuss how BioLogic AI can help with our drug discovery needs.
+I would like to schedule a consultation to discuss how Cognivus can help with our drug discovery needs.
 
 Please let me know your availability.
 
@@ -75,10 +75,10 @@ Best regards,`;
 };
 
 export const contactSales = () => {
-  const subject = 'Sales Inquiry - BioLogic AI';
+  const subject = 'Sales Inquiry - Cognivus';
   const body = `Hello,
 
-I'm interested in learning more about BioLogic AI's platform and pricing options.
+I'm interested in learning more about Cognivus's platform and pricing options.
 
 Please contact me to discuss our requirements.
 

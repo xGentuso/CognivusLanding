@@ -292,7 +292,7 @@ const InvestmentOpportunity = () => {
                   </div>
                   <div>
                     <div className="font-medium text-gray-900">Email</div>
-                    <div className="text-gray-600">BioLogicAI@ryanmota.dev</div>
+                    <div className="text-gray-600">ryanmota@cognivus.ca</div>
                   </div>
                 </div>
                 

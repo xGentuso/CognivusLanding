@@ -85,7 +85,7 @@ const Footer = () => {
                 </div>
                 <div>
                   <div className="text-sm text-gray-500">Email</div>
-                  <div className="text-gray-700">BioLogicAI@ryanmota.dev</div>
+                  <div className="text-gray-700">ryanmota@cognivus.ca</div>
                 </div>
               </div>
               
@@ -143,13 +143,13 @@ const Footer = () => {
           
           <div className="flex items-center gap-6 mt-4 md:mt-0">
             <button 
-              onClick={() => alert('Privacy Policy - Please contact BioLogicAI@ryanmota.dev for our privacy policy.')} 
+              onClick={() => alert('Privacy Policy - Please contact ryanmota@cognivus.ca for our privacy policy.')} 
               className="text-sm text-gray-400 hover:text-gray-600 transition-colors"
             >
               Privacy Policy
             </button>
             <button 
-              onClick={() => alert('Terms of Service - Please contact BioLogicAI@ryanmota.dev for our terms of service.')} 
+              onClick={() => alert('Terms of Service - Please contact ryanmota@cognivus.ca for our terms of service.')} 
               className="text-sm text-gray-400 hover:text-gray-600 transition-colors"
             >
               Terms of Service
