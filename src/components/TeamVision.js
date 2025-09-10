@@ -7,12 +7,10 @@ import {
   Target, 
   Globe, 
   CheckCircle,
-  ArrowRight,
   Star,
   Lightbulb,
   Clock
 } from 'lucide-react';
-import { scheduleDemo, downloadPitchDeck } from '../utils/actions';
 
 const TeamVision = () => {
   const [ref, inView] = useInView({
@@ -364,26 +362,6 @@ const TeamVision = () => {
               to patients faster than ever before. Our validated platform is ready 
               to scale to any disease target.
             </p>
-            <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <motion.button
-                className="btn btn-primary"
-                onClick={scheduleDemo}
-                whileHover={{ scale: 1.05 }}
-                whileTap={{ scale: 0.95 }}
-              >
-                Schedule Investor Demo
-                <ArrowRight className="w-5 h-5" />
-              </motion.button>
-              <motion.button
-                className="btn btn-secondary"
-                onClick={downloadPitchDeck}
-                whileHover={{ scale: 1.05 }}
-                whileTap={{ scale: 0.95 }}
-              >
-                Download Pitch Deck
-                <ArrowRight className="w-5 h-5" />
-              </motion.button>
-            </div>
           </div>
         </motion.div>
       </div>

@@ -13,7 +13,6 @@ import {
   Clock,
   Brain
 } from 'lucide-react';
-import { scheduleDemo, downloadPitchDeck } from '../utils/actions';
 
 const CompetitiveAdvantages = () => {
   const [ref, inView] = useInView({
@@ -143,24 +142,6 @@ const CompetitiveAdvantages = () => {
               Cognivus uniquely optimizes for synthesis feasibility - the critical 
               bottleneck in drug development.
             </p>
-            <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <motion.button
-                className="btn btn-primary"
-                onClick={scheduleDemo}
-                whileHover={{ scale: 1.05 }}
-                whileTap={{ scale: 0.95 }}
-              >
-                Schedule Investor Demo
-              </motion.button>
-              <motion.button
-                className="btn btn-secondary"
-                onClick={downloadPitchDeck}
-                whileHover={{ scale: 1.05 }}
-                whileTap={{ scale: 0.95 }}
-              >
-                Download Pitch Deck
-              </motion.button>
-            </div>
           </div>
         </motion.div>
       </div>

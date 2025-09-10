@@ -11,7 +11,6 @@ import {
   Zap,
   Shield
 } from 'lucide-react';
-import { scheduleDemo } from '../utils/actions';
 
 const ProofOfConcept = () => {
   const [ref, inView] = useInView({
@@ -250,14 +249,6 @@ const ProofOfConcept = () => {
               Our AI platform generated promising BACE1 inhibitor leads ready for experimental testing. 
               The next step is wet lab validation to confirm binding predictions.
             </p>
-            <motion.button
-              className="btn btn-primary btn-lg"
-              onClick={scheduleDemo}
-              whileHover={{ scale: 1.05 }}
-              whileTap={{ scale: 0.95 }}
-            >
-              Schedule Investor Demo
-            </motion.button>
           </div>
         </motion.div>
       </div>

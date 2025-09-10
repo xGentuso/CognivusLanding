@@ -1,7 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { Star, Quote, Building2 } from 'lucide-react';
-import { scheduleDemo, downloadPitchDeck } from '../utils/actions';
 
 const SocialProof = () => {
   const validationPoints = [
@@ -145,24 +144,6 @@ const SocialProof = () => {
             $8.2B AI drug discovery market. Our advanced AI technology 
             provides sustainable competitive advantages.
           </p>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <motion.button
-              className="btn btn-primary btn-lg"
-              onClick={scheduleDemo}
-              whileHover={{ scale: 1.05 }}
-              whileTap={{ scale: 0.95 }}
-            >
-              Schedule Investor Demo
-            </motion.button>
-            <motion.button
-              className="btn btn-secondary btn-lg"
-              onClick={downloadPitchDeck}
-              whileHover={{ scale: 1.05 }}
-              whileTap={{ scale: 0.95 }}
-            >
-              Download Pitch Deck
-            </motion.button>
-          </div>
         </motion.div>
       </div>
     </section>

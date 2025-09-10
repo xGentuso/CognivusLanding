@@ -14,7 +14,6 @@ import {
   TestTube,
   Clock
 } from 'lucide-react';
-import { scheduleDemo } from '../utils/actions';
 
 const MarketOpportunity = () => {
   const [ref, inView] = useInView({
@@ -316,14 +315,6 @@ const MarketOpportunity = () => {
               Cognivus is positioned to capture a significant share of the $8.2B 
               AI drug discovery market with our validated, synthesis-optimized platform.
             </p>
-            <motion.button
-              className="btn btn-lg bg-white text-blue-600 hover:bg-gray-100"
-              onClick={scheduleDemo}
-              whileHover={{ scale: 1.05 }}
-              whileTap={{ scale: 0.95 }}
-            >
-              Schedule Investor Demo
-            </motion.button>
           </div>
         </motion.div>
       </div>
