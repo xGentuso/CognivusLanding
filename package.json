@@ -4,6 +4,7 @@
   "description": "Cognivus - AI-First Drug Discovery Platform Landing Page",
   "private": true,
   "dependencies": {
+    "@vercel/analytics": "^1.5.0",
     "framer-motion": "^10.16.4",
     "lucide-react": "^0.292.0",
     "react": "^18.2.0",

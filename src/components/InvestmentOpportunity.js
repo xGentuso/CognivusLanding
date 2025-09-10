@@ -5,7 +5,6 @@ import {
   DollarSign, 
   TrendingUp, 
   Target, 
-  Calendar, 
   Mail, 
   ArrowRight,
   CheckCircle,

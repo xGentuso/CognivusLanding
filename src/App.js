@@ -1,4 +1,5 @@
 import React from 'react';
+import { Analytics } from '@vercel/analytics/react';
 import Navigation from './components/Navigation';
 import Hero from './components/Hero';
 import ProblemSolution from './components/ProblemSolution';
@@ -23,6 +24,7 @@ function App() {
       <InvestmentOpportunity />
       <FAQ />
       <Footer />
+      <Analytics />
     </div>
   );
 }
