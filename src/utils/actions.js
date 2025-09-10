@@ -11,7 +11,7 @@ export const CONTACT_INFO = {
 export const SOCIAL_LINKS = {
   linkedin: 'http://linkedin.com/in/ryancodes',
   twitter: 'https://twitter.com/biologic_ai', 
-  github: 'https://github.com/biologic-ai'
+  github: 'https://github.com/xGentuso'
 };
 
 // Action functions
