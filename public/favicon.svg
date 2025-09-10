@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Optimized brain favicon - larger and clearer -->
+  <g transform="translate(16,16)">
+    <!-- Left brain (organic) -->
+    <path d="M-12,-8 C-14,-10 -16,-8 -16,-5 C-16,-2 -16,2 -14,5 C-12,8 -8,8 -6,5 C-4,2 -4,-2 -6,-5 C-8,-8 -10,-8 -12,-6 C-10,-4 -10,0 -8,2" 
+          fill="none" stroke="#8b5cf6" stroke-width="2" stroke-linecap="round"/>
+    <!-- Right brain (circuit) -->
+    <g stroke="#333" stroke-width="1.5" fill="none">
+      <rect x="2" y="-8" width="14" height="16" rx="2"/>
+      <line x1="4" y1="-4" x2="14" y2="-4"/>
+      <line x1="4" y1="0" x2="14" y2="0"/>
+      <line x1="4" y1="4" x2="14" y2="4"/>
+      <circle cx="6" cy="-2" r="1.5" fill="#8b5cf6"/>
+      <circle cx="12" cy="2" r="1.5" fill="#8b5cf6"/>
+      <circle cx="8" cy="6" r="1" fill="#333"/>
+    </g>
+  </g>
+</svg>
