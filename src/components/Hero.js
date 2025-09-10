@@ -118,7 +118,7 @@ const Hero = () => {
               </div>
               <div className="flex items-center gap-2">
                 <div className="w-2 h-2 bg-blue-500 rounded-full"></div>
-                IP Portfolio Protected
+                Technology Platform Validated
               </div>
             </motion.div>
           </motion.div>

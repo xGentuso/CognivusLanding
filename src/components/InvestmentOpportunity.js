@@ -89,7 +89,7 @@ const InvestmentOpportunity = () => {
     },
     {
       icon: Brain,
-      title: 'Proprietary Tech',
+      title: 'Advanced Tech',
       description: 'Unique synthesis optimization approach',
       value: 'Advanced'
     }
@@ -99,7 +99,7 @@ const InvestmentOpportunity = () => {
     { category: 'Wet Lab Validation', percentage: 40, amount: '$1.7M' },
     { category: 'Team Expansion', percentage: 30, amount: '$1.3M' },
     { category: 'Platform Development', percentage: 20, amount: '$0.85M' },
-    { category: 'IP & Legal', percentage: 10, amount: '$0.4M' }
+    { category: 'Legal & Compliance', percentage: 10, amount: '$0.4M' }
   ];
 
   return (

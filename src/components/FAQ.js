@@ -9,7 +9,7 @@ const FAQ = () => {
   const faqs = [
     {
       question: "What is Cognivus's competitive advantage in the AI drug discovery market?",
-      answer: "Cognivus is the only AI platform focused on synthesis optimization, addressing the critical bottleneck in drug development. Our 90.8% AUC model performance with 5 validated BACE1 leads demonstrates proven technology in a $8.2B market growing at 18.2% CAGR, with proprietary algorithms providing sustainable competitive advantages."
+      answer: "Cognivus is the only AI platform focused on synthesis optimization, addressing the critical bottleneck in drug development. Our 90.8% AUC model performance with 5 validated BACE1 leads demonstrates proven technology in a $8.2B market growing at 18.2% CAGR, with advanced algorithms providing sustainable competitive advantages."
     },
     {
       question: "What is the current funding status and use of capital?",
@@ -28,12 +28,12 @@ const FAQ = () => {
       answer: "The AI drug discovery market is $8.2B by 2030, growing at 18.2% CAGR. Our universal platform scales to 500+ disease targets across oncology ($185B), rare diseases ($165B), and infectious diseases ($42B). Each successful drug candidate represents $100M+ in potential licensing revenue."
     },
     {
-      question: "How strong is your intellectual property position?",
-      answer: "We have developed proprietary technology for AI-driven synthesis optimization, a unique approach in the market. Our advanced algorithms, retrosynthetic planning methods, and compound scoring systems provide competitive differentiation. We're continuously innovating to maintain our technological leadership."
+      question: "How defensible is your technology platform?",
+      answer: "We have developed advanced algorithms for AI-driven synthesis optimization, a unique approach in the market. Our specialized retrosynthetic planning methods and compound scoring systems provide competitive differentiation through technical complexity and continuous innovation."
     },
     {
       question: "What are the key risks and how are you mitigating them?",
-      answer: "Primary risks include regulatory approval uncertainty, competition from pharma giants, and technology validation. We mitigate through: proven BACE1 results, proprietary technology, experienced team, diversified target approach, and strategic partnerships. Our synthesis focus differentiates us from binding-prediction competitors."
+      answer: "Primary risks include regulatory approval uncertainty, competition from pharma giants, and technology validation. We mitigate through: proven BACE1 results, advanced technology platform, experienced team, diversified target approach, and strategic partnerships. Our synthesis focus differentiates us from binding-prediction competitors."
     },
     {
       question: "What type of returns can investors expect and what are comparable exits?",

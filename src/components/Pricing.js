@@ -82,7 +82,7 @@ const Pricing = () => {
     },
     {
       title: "Custom AI Models",
-      description: "Train models on your proprietary datasets", 
+      description: "Train models on your private datasets", 
       price: "Starting at $50K"
     },
     {
