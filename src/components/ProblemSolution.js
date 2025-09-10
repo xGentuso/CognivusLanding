@@ -2,7 +2,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
 import { X, CheckCircle, Clock, DollarSign, TestTube, Zap } from 'lucide-react';
-import { scrollToSection } from '../utils/actions';
+import { scrollToSection, requestTechnicalDemo } from '../utils/actions';
 
 const ProblemSolution = () => {
   const [ref, inView] = useInView({
@@ -162,7 +162,7 @@ const ProblemSolution = () => {
             </p>
             <motion.button
               className="btn btn-primary btn-lg"
-              onClick={() => scrollToSection('#technology')}
+              onClick={requestTechnicalDemo}
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
             >

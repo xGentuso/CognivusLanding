@@ -88,6 +88,26 @@ Best regards,`;
   window.open(mailtoLink);
 };
 
+export const requestTechnicalDemo = () => {
+  const subject = 'Technical Demo Request - Cognivus AI Platform';
+  const body = `Hello,
+
+I would like to request a technical demonstration of the Cognivus AI platform.
+
+I'm interested in seeing:
+• AI model performance metrics
+• Synthesis optimization process
+• BACE1 lead generation examples
+• Platform capabilities and workflow
+
+Please let me know your availability for a technical deep-dive session.
+
+Best regards,`;
+  
+  const mailtoLink = `mailto:${CONTACT_INFO.email}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+  window.open(mailtoLink);
+};
+
 // Form submission handler
 export const submitContactForm = async (formData) => {
   try {
