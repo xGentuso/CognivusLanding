@@ -3,19 +3,19 @@
   "name": "Cognivus - AI-First Drug Discovery Platform",
   "icons": [
     {
-      "src": "TabLogo.png",
+      "src": "TabLogo.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    },
+    {
+      "src": "Cognivus.png",
       "type": "image/png",
       "sizes": "512x512"
     },
     {
-      "src": "TabLogo.png",
+      "src": "Cognivus.png",
       "type": "image/png", 
       "sizes": "192x192"
-    },
-    {
-      "src": "TabLogo.png",
-      "type": "image/png",
-      "sizes": "any"
     }
   ],
   "start_url": ".",
